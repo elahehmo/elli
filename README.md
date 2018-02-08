@@ -1,1 +1,1 @@
-My personal website, based on based on http://jekyllthemes.org/themes/particle/
+My personal website.
